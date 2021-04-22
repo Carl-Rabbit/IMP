@@ -1,0 +1,1 @@
+python ISE.py -i ../DatasetOnTestPlatform/network.txt -s ../DatasetOnTestPlatform/network_seeds.txt -m IC -t 3
